@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "channels": {
+    "com.aafha.kamitree": {
+      "latest": {
+        "versionName": "0.26.5",
+        "versionCode": 737,
+        "notesMs": [
+          "KAMI Rangkai kini tersedia kepada penguji Alpha yang dipilih melalui Google Play.",
+          "Widget sambutan menggabungkan hari lahir dan ulang tahun perkahwinan semua ahli keluarga secara automatik, mengikut tarikh terdekat.",
+          "Susunan widget diperbaiki untuk ruang kecil dan teks 200%, dengan hari berbaki atau Hari ini diutamakan supaya kekal jelas."
+        ],
+        "notesEn": [
+          "KAMI Rangkai is now available to selected Alpha testers through Google Play.",
+          "The celebrations widget automatically combines birthdays and wedding anniversaries for all family members, ordered by the nearest date.",
+          "Widget layouts are improved for small spaces and 200% text, prioritising the countdown or Today label so it stays clear."
+        ]
+      }
+    },
+    "com.aafham.kami_rangkai_app": {
+      "latest": {
+        "versionName": "0.25.1",
+        "versionCode": 33,
+        "notesMs": [
+          "Homepage dengan foto keluarga yang lebih jelas, carian dan pintasan keluarga.",
+          "Kad sambutan ringkas serta pembaikan widget, peringatan dan sandaran daripada versi 0.24.0.",
+          "Versi percubaan ini berasingan daripada KAMI Tree di Google Play."
+        ],
+        "notesEn": [
+          "Home screen with a clearer family photo, search and family shortcuts.",
+          "Compact celebration cards and widget, reminder and backup improvements from version 0.24.0.",
+          "This preview is separate from KAMI Tree on Google Play."
+        ]
+      }
+    }
+  }
+}
