@@ -19,17 +19,17 @@
     },
     "com.aafham.kami_rangkai_app": {
       "latest": {
-        "versionName": "0.25.1",
-        "versionCode": 33,
+        "versionName": "0.27.0",
+        "versionCode": 40,
         "notesMs": [
-          "Homepage dengan foto keluarga yang lebih jelas, carian dan pintasan keluarga.",
-          "Kad sambutan ringkas serta pembaikan widget, peringatan dan sandaran daripada versi 0.24.0.",
-          "Versi percubaan ini berasingan daripada KAMI Tree di Google Play."
+          "Semak versi aplikasi melalui Tetapan → Semak kemas kini. Semakan menggunakan internet hanya selepas anda menekan butang.",
+          "Widget Sambutan automatik menggabungkan hari lahir ahli hidup dan ulang tahun pasangan yang kedua-duanya masih hidup, mengikut tarikh terdekat.",
+          "Paparan widget diperbaiki untuk ruang kecil dan tulisan besar. Preview ini dipasang berasingan daripada KAMI Rangkai rasmi melalui Google Play."
         ],
         "notesEn": [
-          "Home screen with a clearer family photo, search and family shortcuts.",
-          "Compact celebration cards and widget, reminder and backup improvements from version 0.24.0.",
-          "This preview is separate from KAMI Tree on Google Play."
+          "Check your app version in Settings → Check for updates. The check uses the internet only after you press the button.",
+          "The Auto celebrations widget combines birthdays of living members and anniversaries of couples whose partners are both living, ordered by the nearest date.",
+          "Widget layouts are improved for small spaces and larger text. This preview installs separately from the official KAMI Rangkai app on Google Play."
         ]
       }
     }
